@@ -33,3 +33,4 @@
 
 example_py/CMake*
 example_py/Make*
+build/*
